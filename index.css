@@ -1,0 +1,12 @@
+body {
+    background-color: #e6eeff;
+  }
+  
+  .card {
+    border: none;
+  }
+.COW{
+    list-style-type: none;
+    justify-content: center;
+    display: block;
+}  
